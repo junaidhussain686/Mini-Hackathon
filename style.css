@@ -1,0 +1,115 @@
+.logo{
+  width: 70%;
+  height: 80px;
+  margin-top: 50px ;
+  margin-left: 60px;
+}
+.container-fluid .nav-link{
+  width: 88px;
+  height: 28px;
+  font-weight: 400;
+  size: 20px;
+  line-height: 25px;
+  color: black;
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.container-fluid .btn{
+  width: Hug (231px)px;
+  height: Hug (68px)px;
+  padding: 20px 35px 20px 35px;
+  gap: 10px;
+  border-radius: 14px;
+  border: 2px solid black;
+  opacity: 0px;
+  border-color: black;
+  color:black;
+}
+.para-content{
+  width: 531px;
+  height: 231px;
+  font-weight: 500;
+  font-size: 60px;
+  color: black;
+  margin-left: 60px;
+}
+.paragraph-content{
+  margin-left: 50px;
+  margin-top: 80px;
+  width: 498px;
+height: 112px;
+gap: 0px;
+opacity: 0px;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+}
+.btn-book{
+  margin-left: 10px;
+  margin-bottom: 70px;
+  width: 264px;
+  height: 250px;
+  font-weight: 400;
+  font-size: 20px;
+  padding: 20px 35px 20px 35px;
+  gap: 10px;
+  border-radius : 14px;
+  opacity: 0px;
+  border-color: black;
+  color:black;
+}
+.hero-image{
+  display: flex;
+  justify-content: center;
+  margin-left: 1000px;
+  margin-bottom: 200%;
+}
+.company-logo{
+  display: flex;
+  justify-content: space-evenly;
+}
+.services{
+  margin-top: 90px;
+  margin-left: 110px;
+}
+.para-services{
+margin-bottom: 100px;
+  margin-left: 200px;
+width: 580px;
+height: 46px;
+gap: 0px;
+opacity: 0px;
+font-family: Space Grotesk;
+font-size: 18px;
+font-weight: 400;
+line-height: 22.97px;
+text-align: left;
+}
+.card-pic{
+  margin-left: 100px;
+}
+.pic{
+  margin-left: 200px;
+}
+.working-process{
+  margin-top: 100px;
+  margin-left: 200px;
+}
+.working-process .para-working{ 
+  margin-left: 500px;
+  width: 292px;
+  height: 46px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22.97px;
+  text-align: left;
+}
+.cart-container{
+  margin-left: 150px;
+}
+.cart-container2{
+  
+}
